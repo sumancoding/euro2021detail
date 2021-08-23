@@ -1,0 +1,24 @@
+*{color:slateblue; 
+}
+h1,h2{color:tomato;}
+section sub a {text-decoration: none; color:#dc2f02;}
+a{color:yellowgreen; text-decoration: none;}
+
+input[type="text"]{color:chocolate;}
+button:hover{background-color:#84a59d; color:red;}
+button:active{background-color:#4361ee; color:#9e2a2b;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
